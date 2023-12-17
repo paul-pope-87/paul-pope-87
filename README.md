@@ -5,7 +5,7 @@
 -->
 I'm a tech-curious linguist, teacher, and poet who likes to patch things together and figure them out! Currently I work in data rating and annotation for RLHF projects, but here is where I dump some of my coding and analysis adventures. 📫 Find me on [LinkedIn](https://www.linkedin.com/in/paul-pope-79b4ba95/)
 
-## Some Previous Projects
+## Previous Projects
 
 ### Native Language Identification with BERT:
 
@@ -18,4 +18,13 @@ This explores various dimensionality reduction and clustering algorithms on Finn
 ### Linear Modeling with Census Data
 
 This study explores to what extent transportation data can predict income inequality. The code is in this repository, and the project report is available on [RPubs](https://rpubs.com/paulpope/1131403). 
+
+### Digital Humanities Hackathon 2023, University of Helsinki
+
+Our hackathon group used a pipeline of unsupervised methods to explore how polarization manifests in European parliaments using publicly available corpora of parliamentary proceedings. My contributions were mainly methodological and post-hoc, but our repository can be accessed [here](https://github.com/dhh23/parliament/tree/main).
+
+## Other Work
+
+I've also served as an intern at UEF Computer Sciences department in [Learning Analytics](https://sites.uef.fi/edtech/learning-analytics-2/), working with bibliographic networks, topic modeling, and keyword extraction.
+
 
