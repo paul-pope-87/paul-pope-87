@@ -13,7 +13,7 @@ For my MA in Linguistic Data Science at the University of Eastern Finland, I tra
 
 ### Exploring Word Embeddings
 
-This explores various dimensionality reduction and clustering algorithms on Finnish word embeddings using R. The code is in [this repository](https://github.com/paul-pope-87/exploring-word-representation), and the project report is available on [RPubs](https://rpubs.com/paulpope/923065).
+This explores various dimensionality reduction and clustering algorithms on Finnish semantic word embeddings using R. The code is in [this repository](https://github.com/paul-pope-87/exploring-word-representation), and the project report is available on [RPubs](https://rpubs.com/paulpope/923065).
 
 ### Linear Modeling with Census Data
 
